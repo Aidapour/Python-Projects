@@ -9,5 +9,6 @@ age = int(input("How old are you today? "))
 
 print (name,  "is " + str(age) + " years old", "and love the color " + color + "." )
 
-nam = "Aida"
-print("Hey, %s!" % nam)
+
+name1 = "Aida"
+print("Hey, %s!" % name1)
